@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/cdb-backend/.vs
+/cdb-backend/B3.Cdb.Application/bin/
+/cdb-backend/B3.Cdb.Application/obj/
+/cdb-backend/B3.Cdb.Application.UnitTests/bin/
+/cdb-backend/B3.Cdb.Application.UnitTests/obj/
+/cdb-backend/B3.Cdb.Domain/bin/
+/cdb-backend/B3.Cdb.Domain/obj/
+/cdb-backend/B3.Cdb.Infrastructure.Data/bin/
+/cdb-backend/B3.Cdb.Infrastructure.Data/obj/
+/cdb-backend/B3.Cdb.Services/bin/
+/cdb-backend/B3.Cdb.Services/obj/
+/cdb-backend/B3.Cdb.WebApi/bin/
+/cdb-backend/B3.Cdb.WebApi/obj/
+/cdb-backend/B3.Cdb.Frontend/.vscode
+/cdb-backend/B3.Cdb.Frontend/obj/

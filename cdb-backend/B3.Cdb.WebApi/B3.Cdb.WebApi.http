@@ -1,0 +1,6 @@
+@B3.Cdb.WebApi_HostAddress = http://localhost:5236
+
+GET {{B3.Cdb.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
