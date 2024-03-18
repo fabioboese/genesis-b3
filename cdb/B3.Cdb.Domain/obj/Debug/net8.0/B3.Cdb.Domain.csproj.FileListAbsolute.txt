@@ -1,0 +1,12 @@
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Domain\bin\Debug\net8.0\B3.Cdb.Domain.deps.json
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Domain\bin\Debug\net8.0\B3.Cdb.Domain.dll
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Domain\bin\Debug\net8.0\B3.Cdb.Domain.pdb
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Domain\obj\Debug\net8.0\B3.Cdb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Domain\obj\Debug\net8.0\B3.Cdb.Domain.AssemblyInfoInputs.cache
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Domain\obj\Debug\net8.0\B3.Cdb.Domain.AssemblyInfo.cs
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Domain\obj\Debug\net8.0\B3.Cdb.Domain.csproj.CoreCompileInputs.cache
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Domain\obj\Debug\net8.0\B3.Cdb.Domain.sourcelink.json
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Domain\obj\Debug\net8.0\B3.Cdb.Domain.dll
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Domain\obj\Debug\net8.0\refint\B3.Cdb.Domain.dll
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Domain\obj\Debug\net8.0\B3.Cdb.Domain.pdb
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Domain\obj\Debug\net8.0\ref\B3.Cdb.Domain.dll

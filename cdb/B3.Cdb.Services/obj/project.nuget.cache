@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EVxYJ+Tr0RePinPZKSTFVz2WI19pYu7/NCdFhxaFM7crBBnlIQk5x9nyYK/KiiQDThJDr8KMi0PssQRFkxrpyQ==",
+  "success": true,
+  "projectFilePath": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Services\\B3.Cdb.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

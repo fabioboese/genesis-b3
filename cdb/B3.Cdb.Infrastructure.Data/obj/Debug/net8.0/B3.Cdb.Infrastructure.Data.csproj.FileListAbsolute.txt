@@ -1,0 +1,16 @@
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\bin\Debug\net8.0\B3.Cdb.Infrastructure.Data.deps.json
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\bin\Debug\net8.0\B3.Cdb.Infrastructure.Data.dll
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\bin\Debug\net8.0\B3.Cdb.Infrastructure.Data.pdb
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\bin\Debug\net8.0\B3.Cdb.Domain.dll
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\bin\Debug\net8.0\B3.Cdb.Domain.pdb
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\obj\Debug\net8.0\B3.Cdb.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\obj\Debug\net8.0\B3.Cdb.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\obj\Debug\net8.0\B3.Cdb.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\obj\Debug\net8.0\B3.Cdb.Infrastructure.Data.AssemblyInfo.cs
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\obj\Debug\net8.0\B3.Cdb.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\obj\Debug\net8.0\B3.Cdb.Infrastructure.Data.sourcelink.json
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\obj\Debug\net8.0\B3.Cdb.I.A775089C.Up2Date
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\obj\Debug\net8.0\B3.Cdb.Infrastructure.Data.dll
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\obj\Debug\net8.0\refint\B3.Cdb.Infrastructure.Data.dll
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\obj\Debug\net8.0\B3.Cdb.Infrastructure.Data.pdb
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Infrastructure.Data\obj\Debug\net8.0\ref\B3.Cdb.Infrastructure.Data.dll

@@ -1,0 +1,16 @@
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\bin\Debug\net8.0\B3.Cdb.Application.deps.json
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\bin\Debug\net8.0\B3.Cdb.Application.dll
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\bin\Debug\net8.0\B3.Cdb.Application.pdb
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\bin\Debug\net8.0\B3.Cdb.Domain.dll
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\bin\Debug\net8.0\B3.Cdb.Domain.pdb
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\obj\Debug\net8.0\B3.Cdb.Application.csproj.AssemblyReference.cache
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\obj\Debug\net8.0\B3.Cdb.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\obj\Debug\net8.0\B3.Cdb.Application.AssemblyInfoInputs.cache
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\obj\Debug\net8.0\B3.Cdb.Application.AssemblyInfo.cs
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\obj\Debug\net8.0\B3.Cdb.Application.csproj.CoreCompileInputs.cache
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\obj\Debug\net8.0\B3.Cdb.Application.sourcelink.json
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\obj\Debug\net8.0\B3.Cdb.A.8E49120F.Up2Date
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\obj\Debug\net8.0\B3.Cdb.Application.dll
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\obj\Debug\net8.0\refint\B3.Cdb.Application.dll
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\obj\Debug\net8.0\B3.Cdb.Application.pdb
+D:\repo\fabioboese\genesis-b3\cdb-backend\B3.Cdb.Application\obj\Debug\net8.0\ref\B3.Cdb.Application.dll

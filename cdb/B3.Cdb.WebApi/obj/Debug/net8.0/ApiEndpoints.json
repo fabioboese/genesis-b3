@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "B3.Cdb.WebApi.Controllers.InvestController",
+    "Method": "CalculateCdb",
+    "RelativePath": "Invest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "B3.Cdb.Domain.Model.Operation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "B3.Cdb.Domain.Model.Position",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

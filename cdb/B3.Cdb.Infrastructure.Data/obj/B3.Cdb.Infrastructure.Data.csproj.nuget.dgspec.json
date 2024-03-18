@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Infrastructure.Data\\B3.Cdb.Infrastructure.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\B3.Cdb.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\B3.Cdb.Domain.csproj",
+        "projectName": "B3.Cdb.Domain",
+        "projectPath": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\B3.Cdb.Domain.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Infrastructure.Data\\B3.Cdb.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Infrastructure.Data\\B3.Cdb.Infrastructure.Data.csproj",
+        "projectName": "B3.Cdb.Infrastructure.Data",
+        "projectPath": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Infrastructure.Data\\B3.Cdb.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\B3.Cdb.Domain.csproj": {
+                "projectPath": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\B3.Cdb.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

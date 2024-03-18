@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "B3.Cdb.Infrastructure.Data/1.0.0": {
+        "dependencies": {
+          "B3.Cdb.Domain": "1.0.0"
+        },
+        "runtime": {
+          "B3.Cdb.Infrastructure.Data.dll": {}
+        }
+      },
+      "B3.Cdb.Domain/1.0.0": {
+        "runtime": {
+          "B3.Cdb.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B3.Cdb.Infrastructure.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "B3.Cdb.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

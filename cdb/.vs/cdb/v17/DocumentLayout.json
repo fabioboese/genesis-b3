@@ -1,0 +1,680 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E59F56-63B9-4CB5-8AEF-BEAD7F1CB382}|B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.frontend\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E59F56-63B9-4CB5-8AEF-BEAD7F1CB382}|B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj|solutionrelative:b3.cdb.frontend\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.domain\\validator\\cdbcalculationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|solutionrelative:b3.cdb.domain\\validator\\cdbcalculationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.domain\\model\\cdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|solutionrelative:b3.cdb.domain\\model\\cdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80390F57-F5FF-4394-A331-78AD58254B4B}|B3.Cdb.WebApi\\B3.Cdb.WebApi.csproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.webapi\\b3.cdb.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80390F57-F5FF-4394-A331-78AD58254B4B}|B3.Cdb.WebApi\\B3.Cdb.WebApi.csproj|solutionrelative:b3.cdb.webapi\\b3.cdb.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E59F56-63B9-4CB5-8AEF-BEAD7F1CB382}|B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.frontend\\readme.mk||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B6E59F56-63B9-4CB5-8AEF-BEAD7F1CB382}|B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj|solutionrelative:b3.cdb.frontend\\readme.mk||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80390F57-F5FF-4394-A331-78AD58254B4B}|B3.Cdb.WebApi\\B3.Cdb.WebApi.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.webapi\\controllers\\investcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80390F57-F5FF-4394-A331-78AD58254B4B}|B3.Cdb.WebApi\\B3.Cdb.WebApi.csproj|solutionrelative:b3.cdb.webapi\\controllers\\investcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E59F56-63B9-4CB5-8AEF-BEAD7F1CB382}|B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.frontend\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6E59F56-63B9-4CB5-8AEF-BEAD7F1CB382}|B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj|solutionrelative:b3.cdb.frontend\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.application\\interest\\iratecalculationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|solutionrelative:b3.cdb.application\\interest\\iratecalculationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.application\\interest\\compoundinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|solutionrelative:b3.cdb.application\\interest\\compoundinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.application\\tax\\taxation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|solutionrelative:b3.cdb.application\\tax\\taxation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.application\\interest\\ratecalculationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|solutionrelative:b3.cdb.application\\interest\\ratecalculationstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.application\\interest\\iratecalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|solutionrelative:b3.cdb.application\\interest\\iratecalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.application\\interest\\floatratestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|solutionrelative:b3.cdb.application\\interest\\floatratestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.application\\interest\\fixedratestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0834AB-C9C3-49A4-9EAD-F77485876137}|B3.Cdb.Application\\B3.Cdb.Application.csproj|solutionrelative:b3.cdb.application\\interest\\fixedratestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1778A8-5FD6-47B2-B633-0A8DC5EFBC77}|B3.Cdb.Application.UnitTests\\B3.Cdb.Application.UnitTests.csproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.application.unittests\\interest\\compoundinterestunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1778A8-5FD6-47B2-B633-0A8DC5EFBC77}|B3.Cdb.Application.UnitTests\\B3.Cdb.Application.UnitTests.csproj|solutionrelative:b3.cdb.application.unittests\\interest\\compoundinterestunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.domain\\interface\\iindicatorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|solutionrelative:b3.cdb.domain\\interface\\iindicatorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1778A8-5FD6-47B2-B633-0A8DC5EFBC77}|B3.Cdb.Application.UnitTests\\B3.Cdb.Application.UnitTests.csproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.application.unittests\\interest\\ratecalculationstrategyfactoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1778A8-5FD6-47B2-B633-0A8DC5EFBC77}|B3.Cdb.Application.UnitTests\\B3.Cdb.Application.UnitTests.csproj|solutionrelative:b3.cdb.application.unittests\\interest\\ratecalculationstrategyfactoryunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.domain\\enum\\profitabilityruleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|solutionrelative:b3.cdb.domain\\enum\\profitabilityruleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEF8364-C2E3-42DE-A7BE-FE65A326CD6A}|B3.Cdb.Services\\B3.Cdb.Services.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.services\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEF8364-C2E3-42DE-A7BE-FE65A326CD6A}|B3.Cdb.Services\\B3.Cdb.Services.csproj|solutionrelative:b3.cdb.services\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80390F57-F5FF-4394-A331-78AD58254B4B}|B3.Cdb.WebApi\\B3.Cdb.WebApi.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80390F57-F5FF-4394-A331-78AD58254B4B}|B3.Cdb.WebApi\\B3.Cdb.WebApi.csproj|solutionrelative:b3.cdb.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1778A8-5FD6-47B2-B633-0A8DC5EFBC77}|B3.Cdb.Application.UnitTests\\B3.Cdb.Application.UnitTests.csproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.application.unittests\\tax\\taxationunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1778A8-5FD6-47B2-B633-0A8DC5EFBC77}|B3.Cdb.Application.UnitTests\\B3.Cdb.Application.UnitTests.csproj|solutionrelative:b3.cdb.application.unittests\\tax\\taxationunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E83878C-B9E7-43BC-B49D-AED398A93184}|B3.Cdb.Infrastructure.Data\\B3.Cdb.Infrastructure.Data.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.infrastructure.data\\taxraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E83878C-B9E7-43BC-B49D-AED398A93184}|B3.Cdb.Infrastructure.Data\\B3.Cdb.Infrastructure.Data.csproj|solutionrelative:b3.cdb.infrastructure.data\\taxraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFEF8364-C2E3-42DE-A7BE-FE65A326CD6A}|B3.Cdb.Services\\B3.Cdb.Services.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.services\\investservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEF8364-C2E3-42DE-A7BE-FE65A326CD6A}|B3.Cdb.Services\\B3.Cdb.Services.csproj|solutionrelative:b3.cdb.services\\investservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repo\\fabioboese\\genesis-b3\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E59F56-63B9-4CB5-8AEF-BEAD7F1CB382}|B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj|d:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.frontend\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6E59F56-63B9-4CB5-8AEF-BEAD7F1CB382}|B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj|solutionrelative:b3.cdb.frontend\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.domain\\model\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|solutionrelative:b3.cdb.domain\\model\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.domain\\interface\\icdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|solutionrelative:b3.cdb.domain\\interface\\icdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.domain\\interface\\iinvestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|solutionrelative:b3.cdb.domain\\interface\\iinvestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.domain\\interface\\itaxraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|solutionrelative:b3.cdb.domain\\interface\\itaxraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.domain\\interface\\itaxation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|solutionrelative:b3.cdb.domain\\interface\\itaxation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.domain\\interface\\iassetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|solutionrelative:b3.cdb.domain\\interface\\iassetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.domain\\model\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E359D8-B3C1-4ABB-A26E-1D9DE5D4592A}|B3.Cdb.Domain\\B3.Cdb.Domain.csproj|solutionrelative:b3.cdb.domain\\model\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E83878C-B9E7-43BC-B49D-AED398A93184}|B3.Cdb.Infrastructure.Data\\B3.Cdb.Infrastructure.Data.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.infrastructure.data\\indicatorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E83878C-B9E7-43BC-B49D-AED398A93184}|B3.Cdb.Infrastructure.Data\\B3.Cdb.Infrastructure.Data.csproj|solutionrelative:b3.cdb.infrastructure.data\\indicatorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E83878C-B9E7-43BC-B49D-AED398A93184}|B3.Cdb.Infrastructure.Data\\B3.Cdb.Infrastructure.Data.csproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.infrastructure.data\\assetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E83878C-B9E7-43BC-B49D-AED398A93184}|B3.Cdb.Infrastructure.Data\\B3.Cdb.Infrastructure.Data.csproj|solutionrelative:b3.cdb.infrastructure.data\\assetsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E59F56-63B9-4CB5-8AEF-BEAD7F1CB382}|B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.frontend\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6E59F56-63B9-4CB5-8AEF-BEAD7F1CB382}|B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj|solutionrelative:b3.cdb.frontend\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E59F56-63B9-4CB5-8AEF-BEAD7F1CB382}|B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj|D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\b3.cdb.frontend\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6E59F56-63B9-4CB5-8AEF-BEAD7F1CB382}|B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj|solutionrelative:b3.cdb.frontend\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{ebe3f1d5-feac-4131-bf03-0e85ffb89a89}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "B3.Cdb.WebApi",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.WebApi\\B3.Cdb.WebApi.csproj",
+              "RelativeDocumentMoniker": "B3.Cdb.WebApi\\B3.Cdb.WebApi.csproj",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.WebApi\\B3.Cdb.WebApi.csproj",
+              "RelativeToolTip": "B3.Cdb.WebApi\\B3.Cdb.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T20:38:04.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.mk",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Frontend\\README.mk",
+              "RelativeDocumentMoniker": "B3.Cdb.Frontend\\README.mk",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Frontend\\README.mk",
+              "RelativeToolTip": "B3.Cdb.Frontend\\README.mk",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-18T15:43:49.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.css",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Frontend\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "B3.Cdb.Frontend\\src\\app\\app.component.css",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Frontend\\src\\app\\app.component.css",
+              "RelativeToolTip": "B3.Cdb.Frontend\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-18T15:20:37.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RateCalculationStrategyFactoryUnitTests.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application.UnitTests\\Interest\\RateCalculationStrategyFactoryUnitTests.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Application.UnitTests\\Interest\\RateCalculationStrategyFactoryUnitTests.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application.UnitTests\\Interest\\RateCalculationStrategyFactoryUnitTests.cs",
+              "RelativeToolTip": "B3.Cdb.Application.UnitTests\\Interest\\RateCalculationStrategyFactoryUnitTests.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:52:19.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaxationUnitTest.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application.UnitTests\\Tax\\TaxationUnitTest.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Application.UnitTests\\Tax\\TaxationUnitTest.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application.UnitTests\\Tax\\TaxationUnitTest.cs",
+              "RelativeToolTip": "B3.Cdb.Application.UnitTests\\Tax\\TaxationUnitTest.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:44:41.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FloatRateStrategy.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Interest\\FloatRateStrategy.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Application\\Interest\\FloatRateStrategy.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Interest\\FloatRateStrategy.cs",
+              "RelativeToolTip": "B3.Cdb.Application\\Interest\\FloatRateStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:05:02.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRateCalculationStrategyFactory.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Interest\\IRateCalculationStrategyFactory.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Application\\Interest\\IRateCalculationStrategyFactory.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Interest\\IRateCalculationStrategyFactory.cs",
+              "RelativeToolTip": "B3.Cdb.Application\\Interest\\IRateCalculationStrategyFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:39:59.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FixedRateStrategy.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Interest\\FixedRateStrategy.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Application\\Interest\\FixedRateStrategy.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Interest\\FixedRateStrategy.cs",
+              "RelativeToolTip": "B3.Cdb.Application\\Interest\\FixedRateStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:39:04.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRateCalculationStrategy.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Interest\\IRateCalculationStrategy.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Application\\Interest\\IRateCalculationStrategy.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Interest\\IRateCalculationStrategy.cs",
+              "RelativeToolTip": "B3.Cdb.Application\\Interest\\IRateCalculationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:38:52.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launch.json",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Frontend\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "B3.Cdb.Frontend\\.vscode\\launch.json",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Frontend\\.vscode\\launch.json",
+              "RelativeToolTip": "B3.Cdb.Frontend\\.vscode\\launch.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T12:04:22.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-16T12:02:14.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompoundInterestUnitTest.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application.UnitTests\\Interest\\CompoundInterestUnitTest.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Application.UnitTests\\Interest\\CompoundInterestUnitTest.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application.UnitTests\\Interest\\CompoundInterestUnitTest.cs",
+              "RelativeToolTip": "B3.Cdb.Application.UnitTests\\Interest\\CompoundInterestUnitTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T05:25:49.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvestController.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.WebApi\\Controllers\\InvestController.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.WebApi\\Controllers\\InvestController.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.WebApi\\Controllers\\InvestController.cs",
+              "RelativeToolTip": "B3.Cdb.WebApi\\Controllers\\InvestController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T02:39:17.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CdbCalculationValidator.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Validator\\CdbCalculationValidator.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Domain\\Validator\\CdbCalculationValidator.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Validator\\CdbCalculationValidator.cs",
+              "RelativeToolTip": "B3.Cdb.Domain\\Validator\\CdbCalculationValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T02:34:08.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cdb.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Model\\Cdb.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Domain\\Model\\Cdb.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Model\\Cdb.cs",
+              "RelativeToolTip": "B3.Cdb.Domain\\Model\\Cdb.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T02:11:48.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IInvestService.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Interface\\IInvestService.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Domain\\Interface\\IInvestService.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Interface\\IInvestService.cs",
+              "RelativeToolTip": "B3.Cdb.Domain\\Interface\\IInvestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T02:11:42.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICdb.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Interface\\ICdb.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Domain\\Interface\\ICdb.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Interface\\ICdb.cs",
+              "RelativeToolTip": "B3.Cdb.Domain\\Interface\\ICdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T02:03:49.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITaxRateRepository.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Interface\\ITaxRateRepository.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Domain\\Interface\\ITaxRateRepository.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Interface\\ITaxRateRepository.cs",
+              "RelativeToolTip": "B3.Cdb.Domain\\Interface\\ITaxRateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:48:28.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ITaxation.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Interface\\ITaxation.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Domain\\Interface\\ITaxation.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Interface\\ITaxation.cs",
+              "RelativeToolTip": "B3.Cdb.Domain\\Interface\\ITaxation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:48:27.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "main.ts",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Frontend\\src\\main.ts",
+              "RelativeDocumentMoniker": "B3.Cdb.Frontend\\src\\main.ts",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Frontend\\src\\main.ts",
+              "RelativeToolTip": "B3.Cdb.Frontend\\src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-03-16T00:44:09.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Frontend\\src\\index.html",
+              "RelativeDocumentMoniker": "B3.Cdb.Frontend\\src\\index.html",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Frontend\\src\\index.html",
+              "RelativeToolTip": "B3.Cdb.Frontend\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-16T00:43:03.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Frontend\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "B3.Cdb.Frontend\\src\\app\\app.component.html",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Frontend\\src\\app\\app.component.html",
+              "RelativeToolTip": "B3.Cdb.Frontend\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-16T00:27:29.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TaxRateRepository.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Infrastructure.Data\\TaxRateRepository.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Infrastructure.Data\\TaxRateRepository.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Infrastructure.Data\\TaxRateRepository.cs",
+              "RelativeToolTip": "B3.Cdb.Infrastructure.Data\\TaxRateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T00:21:50.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Position.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Model\\Position.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Domain\\Model\\Position.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Model\\Position.cs",
+              "RelativeToolTip": "B3.Cdb.Domain\\Model\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:44:27.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Model\\Operation.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Domain\\Model\\Operation.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Model\\Operation.cs",
+              "RelativeToolTip": "B3.Cdb.Domain\\Model\\Operation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:44:14.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Services\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Services\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Services\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "B3.Cdb.Services\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:29:47.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InvestService.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Services\\InvestService.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Services\\InvestService.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Services\\InvestService.cs",
+              "RelativeToolTip": "B3.Cdb.Services\\InvestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:27:27.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.WebApi\\Program.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.WebApi\\Program.cs",
+              "RelativeToolTip": "B3.Cdb.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:19:56.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProfitabilityRuleEnum.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Enum\\ProfitabilityRuleEnum.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Domain\\Enum\\ProfitabilityRuleEnum.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Enum\\ProfitabilityRuleEnum.cs",
+              "RelativeToolTip": "B3.Cdb.Domain\\Enum\\ProfitabilityRuleEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:19:43.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IIndicatorsRepository.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Interface\\IIndicatorsRepository.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Domain\\Interface\\IIndicatorsRepository.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Interface\\IIndicatorsRepository.cs",
+              "RelativeToolTip": "B3.Cdb.Domain\\Interface\\IIndicatorsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:08:33.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IndicatorsRepository.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Infrastructure.Data\\IndicatorsRepository.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Infrastructure.Data\\IndicatorsRepository.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Infrastructure.Data\\IndicatorsRepository.cs",
+              "RelativeToolTip": "B3.Cdb.Infrastructure.Data\\IndicatorsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:08:13.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAssetsRepository.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Interface\\IAssetsRepository.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Domain\\Interface\\IAssetsRepository.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Domain\\Interface\\IAssetsRepository.cs",
+              "RelativeToolTip": "B3.Cdb.Domain\\Interface\\IAssetsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:37:06.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AssetsRepository.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Infrastructure.Data\\AssetsRepository.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Infrastructure.Data\\AssetsRepository.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Infrastructure.Data\\AssetsRepository.cs",
+              "RelativeToolTip": "B3.Cdb.Infrastructure.Data\\AssetsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T22:25:51.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "7dc44863-70a1-4e8d-b2cd-ff5e6f23746c",
+        "Display": 1,
+        "X": -5,
+        "Y": 33,
+        "Width": 1930,
+        "Height": 1004,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RateCalculationStrategyFactory.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Interest\\RateCalculationStrategyFactory.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Application\\Interest\\RateCalculationStrategyFactory.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Interest\\RateCalculationStrategyFactory.cs",
+              "RelativeToolTip": "B3.Cdb.Application\\Interest\\RateCalculationStrategyFactory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T03:09:45.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Taxation.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Tax\\Taxation.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Application\\Tax\\Taxation.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Tax\\Taxation.cs",
+              "RelativeToolTip": "B3.Cdb.Application\\Tax\\Taxation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:20:46.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompoundInterest.cs",
+              "DocumentMoniker": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Interest\\CompoundInterest.cs",
+              "RelativeDocumentMoniker": "B3.Cdb.Application\\Interest\\CompoundInterest.cs",
+              "ToolTip": "D:\\repo\\fabioboese\\genesis-b3\\cdb-backend\\B3.Cdb.Application\\Interest\\CompoundInterest.cs",
+              "RelativeToolTip": "B3.Cdb.Application\\Interest\\CompoundInterest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:37:03.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
