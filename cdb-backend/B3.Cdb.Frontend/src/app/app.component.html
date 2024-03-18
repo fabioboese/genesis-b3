@@ -2,11 +2,11 @@
 <div class="container-fluid mx-10">
   <div class="row py-2">
     <div class="col-md-2">Valor Initial:</div>
-    <div class="col-md-4"><input class="form-control" type="number" min="0" [(ngModel)]="operation.principal"></div>
+    <div class="col-md-4"><input [class]="'form-control' + (operation.principal <= 0 ? ' is-invalid' : '')" type="number" min="0" [(ngModel)]="operation.principal"></div>
   </div>
   <div class="row py-2">
     <div class="col-md-2">Tempo em meses:</div>
-    <div class="col-md-4"><input class="form-control" type="number" min="1" max="360" [(ngModel)]="operation.months"></div>
+    <div class="col-md-4"><input [class]="'form-control' + (operation.months < 1 ? ' is-invalid' : '')" type="number" min="1" max="360" [(ngModel)]="operation.months"></div>
   </div>
   <div class="row border-bottom py-2">
     <div class="col-md-6 text-end">

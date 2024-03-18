@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "B3.Cdb.WebApi\\B3.Cdb.WebApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "B3.Cdb.Frontend\\B3.Cdb.Frontend.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

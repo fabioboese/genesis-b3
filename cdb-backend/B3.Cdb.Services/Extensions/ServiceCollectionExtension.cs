@@ -27,6 +27,7 @@ public static class ServiceCollectionExtension
         services.AddSingleton<RateCalculationStrategyFactory>();
         services.AddSingleton<ICompoundInterest, CompoundInterest>();
         services.AddSingleton<ITaxation, Taxation>();
+        services.AddSingleton<IRateCalculationStrategyFactory, RateCalculationStrategyFactory>();
 
         // Service Facade
         services.AddSingleton<IInvestService, InvestService>();

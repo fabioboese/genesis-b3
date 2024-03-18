@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace B3.Cdb.Application.Interest;
 
 // As strategies foram criadas para representar como podemos escolher o algoritmo que vai ser executado em função de uma regra de negócio
-internal class FloatRateStrategy : AbstractRateCalculationStrategy
+public  class FloatRateStrategy : IRateCalculationStrategy
 {
     private readonly IIndicatorsRepository indicatorsRepository;
 
@@ -17,5 +17,5 @@ internal class FloatRateStrategy : AbstractRateCalculationStrategy
     {
         this.indicatorsRepository = indicatorsRepository;
     }
-    public override async Task<decimal> GetRateAsync(ProfitabilityRule rule) => rule.Value * await indicatorsRepository.GetIndicatorValueAsync(rule.Benchmark);
+    public virtual async Task<decimal> GetRateAsync(ProfitabilityRule rule) => rule.Value * await indicatorsRepository.GetIndicatorValueAsync(rule.Benchmark);
 }

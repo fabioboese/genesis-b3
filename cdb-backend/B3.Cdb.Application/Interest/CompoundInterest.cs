@@ -6,17 +6,17 @@ namespace B3.Cdb.Application.Interest;
 
 public class CompoundInterest : ICompoundInterest
 {
-    private readonly RateCalculationStrategyFactory factory;
+    private readonly IRateCalculationStrategyFactory factory;
 
-    public CompoundInterest(RateCalculationStrategyFactory factory)
+    public CompoundInterest(IRateCalculationStrategyFactory factory)
     {
         this.factory = factory;
     }
 
-    public async Task<decimal> CalculateAsync(decimal principal, int months, ProfitabilityRule rule)
+    public async Task<decimal> CalculateAsync(decimal initialValue, int months, ProfitabilityRule rule)
     {
         var rate = (double) await factory.Create(rule.Rule).GetRateAsync(rule);
-        var result = principal * (decimal)(Math.Pow(1 + rate, months) - 1);
+        var result = initialValue * (decimal)(Math.Pow(1 + rate, months) - 1);
         return result;
     }
 }

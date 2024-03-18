@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace B3.Cdb.Application.Interest;
 
 // As strategies foram criadas para representar como podemos escolher o algoritmo que vai ser executado em função de uma regra de negócio
-internal class FixedRateStrategy : AbstractRateCalculationStrategy
+public class FixedRateStrategy : IRateCalculationStrategy
 {
-    public override async Task<decimal> GetRateAsync(ProfitabilityRule rule) => await Task.FromResult(rule.Value);
+    public async Task<decimal> GetRateAsync(ProfitabilityRule rule) => await Task.FromResult(rule.Value);
 }

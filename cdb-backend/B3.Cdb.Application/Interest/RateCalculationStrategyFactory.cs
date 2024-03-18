@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace B3.Cdb.Application.Interest;
-public class RateCalculationStrategyFactory
+public class RateCalculationStrategyFactory : IRateCalculationStrategyFactory
 {
     private readonly IIndicatorsRepository indicatorsRepository;
 
@@ -16,7 +16,7 @@ public class RateCalculationStrategyFactory
         this.indicatorsRepository = indicatorsRepository;
     }
 
-    internal AbstractRateCalculationStrategy Create(ProfitabilityRuleEnum rule)
+    public IRateCalculationStrategy Create(ProfitabilityRuleEnum rule)
     {
         return rule switch
         {
